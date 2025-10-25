@@ -10,4 +10,4 @@ Additionally, it also contains a sample GitHub workflow that can be used as a te
 Pull requests are welcome! For major changes, please open an issue to discuss your change first.
 
 ## License
-[MIT](https://github.com/bluecave-toolbox/bluecave-maven-plugin/blob/main/LICENSE).
+[MIT](https://github.com/bluecave-toolbox/java-maven-example/blob/main/LICENSE).
