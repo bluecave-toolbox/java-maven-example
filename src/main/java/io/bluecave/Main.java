@@ -1,7 +1,7 @@
 package io.bluecave;
 
 
-public class Main {
+public final class Main {
     private Main() {
     }
 
