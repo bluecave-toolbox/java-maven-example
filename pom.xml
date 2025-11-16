@@ -28,7 +28,7 @@
             <plugin>
                 <groupId>io.bluecave</groupId>
                 <artifactId>bluecave-maven-plugin</artifactId>
-                <version>0.1.0</version>
+                <version>0.1.3</version>
             </plugin>
             <plugin>
                 <groupId>org.jacoco</groupId>
@@ -46,11 +46,6 @@
                         <goals>
                             <goal>report</goal>
                         </goals>
-                        <configuration>
-                            <formats>
-                                <format>XML</format>
-                            </formats>
-                        </configuration>
                     </execution>
                 </executions>
             </plugin>
